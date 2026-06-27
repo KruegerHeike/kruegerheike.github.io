@@ -68,5 +68,7 @@ permalink: /teaching/
   <li><strong>Summer term 2021.</strong> Social Networks and Health – Seminar. Bachelor's programme Social Sciences, University of Cologne.</li>
   
   <li><strong>Winter term 2018/19.</strong> Friends: Blessing or Curse? Network Research in Adolescence – Seminar. Bachelor's programme Social Sciences, University of Cologne.</li> 
+
 </ul>
+
 </div>
