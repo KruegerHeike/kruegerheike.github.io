@@ -43,7 +43,7 @@ text-decoration: underline;
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/fahrrad.png" class="research-thumb" alt="Feynman diagram">
 <div class="research-body">
 <h4 class="research-title">Does It Matter Who You Compare To? Intra- and Intergroup Competition in a City-Wide Cycling Initiative</h4>
 <p class="research-desc">Background – Regular physical activity is crucial for health, yet often below recommended levels. Social comparison is a key mechanism to increase physical activity, as people adjust their behavior in comparison to others’ performance. Comparison processes are structurally embedded in bounded reference systems rather than occurring in an undifferentiated social field. Classic social comparison theory emphasizes the motivational role of “close” reference groups, such as similar peers or teammates. In contrast, social identity theory highlights that comparisons with more distant outgroups, like competing teams, can mobilize behavior by strengthening collective identities.
