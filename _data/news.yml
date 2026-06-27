@@ -1,9 +1,6 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
-- date: "13 August 2026"
-  headline: "Presentation at the 8th European Conference on Social Networks, Linköping University"
-
 - date: "4 August 2026"
   headline: "Presentation at the Society for Ambulatory Assessment Conference, University of Vienna"
 
