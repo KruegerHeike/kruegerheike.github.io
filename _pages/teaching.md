@@ -31,7 +31,6 @@ permalink: /teaching/
 
 <h3>University Teaching</h3>
 
-
 <ul> 
   <li><strong>Summer term 2026.</strong> Social Support Exchange in Day-to-Day Life – Seminar. Master's programme Sociology: Social and Economic Psychology, University of Cologne.</li>
 
