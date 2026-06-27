@@ -14,8 +14,8 @@ permalink: /
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Sensor Data</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Social Network Analysis</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Intensive Longlitudinal Data</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Ecological Momentary Assessment,</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Digital Behavioral Data,</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Ecological Momentary Assessment</a>
+<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Digital Behavioral Data</a>
 </div>
 
 Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
