@@ -55,8 +55,6 @@ permalink: /about/
 
 <li><strong>April 2013–September 2016.</strong> B.Sc. Social Sciences, University of Cologne. Thesis: <em>Parental Parenting Styles and Adolescents' Self-Control: An Empirical Analysis</em>. Main areas: sociology, social psychology, and quantitative methods.</li>
 
-<li><strong>2003–2012.</strong> Abitur, Nicolaus-Cusanus-Gymnasium, Bergisch Gladbach.</li>
-
   </ul>
 </div>
 
