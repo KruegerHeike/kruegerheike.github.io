@@ -32,22 +32,17 @@ I am a quantitative social scientist working at the intersection of social netwo
 </p>
 
 <p>
-Methodologically, my work combines social network analysis, panel data methods, ecological momentary assessment, smartphone-based experience sampling, wearable-informed survey research, and the analysis of intensive longitudinal and digital behavioral data. I use these approaches to study complex social and health-related processes as they unfold over time.
+Methodologically, my work combines social network analysis, panel data methods, smartphone-based experience sampling, wearable-informed survey research, and the analysis of intensive longitudinal and digital behavioral data. I use these approaches to study complex social and health-related processes as they unfold over time.
 </p>
 
 <div class="callout callout-success" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-chart-line callout-icon"></i> Research Profile</div>
 <p>
-My research contributes to health-oriented data science by linking behavioral, social, and temporal data. I am particularly interested in how quantitative methods, network models, and emerging digital data sources can improve our understanding of mental health, social integration, and everyday social interaction.
+My research contributes to health-oriented data science. I am particularly interested in how quantitative methods, network models, and emerging digital data sources can improve our understanding of mental health, social integration, and everyday social interaction.
 </p>
 </div>
 
-<div class="callout" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-network-wired callout-icon"></i> Current Focus</div>
-<p>
-Current projects include smartphone-based and wearable-informed studies of student well-being, social interaction networks, mood, stress, and biosignals. These projects integrate experience sampling, social network analysis, and reproducible workflows in R.
-</p>
-</div>
+<div class="callout callout-success" markdown="0"> <div class="callout-title"><i class="fa-solid fa-mobile-screen-button callout-icon"></i> Funded Research Projects: PeerSmart Network Study</div> <p> The PeerSmart Network Study integrates smartphone-based experience sampling, social network analysis, and wearable sensor data to examine social interaction networks, mood, stress, and well-being in students' everyday lives. </p> </div>
 
 <div class="callout" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-graduation-cap callout-icon"></i> Teaching and Methods</div>
