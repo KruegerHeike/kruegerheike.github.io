@@ -22,7 +22,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Academic webpage of Dr. Heike Krüger"
 baseurl: ""
 url: ""
 
@@ -89,8 +89,8 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
   query: "@*"
-  bibliography_list_attributes:
-    reversed: "reversed"
+  #bibliography_list_attributes:
+  #  reversed: "reversed"
 
 exclude:
   - Gemfile
