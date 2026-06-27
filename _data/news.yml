@@ -2,13 +2,13 @@
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
 * date: "13 August 2026"
-  title: "Presentation at the 8th European Conference on Social Networks, Linköping University"
+  headline: "Presentation at the 8th European Conference on Social Networks, Linköping University"
 
 * date: "4 August 2026"
-  title: "Presentation at the Society for Ambulatory Assessment Conference, University of Vienna"
+  headline: "Presentation at the Society for Ambulatory Assessment Conference, University of Vienna"
 
 * date: "11 July 2026"
-  title: "Invited talk on AI-supported research in doctoral projects, Konrad-Adenauer-Stiftung, Dortmund"
+  headline: "Invited talk on AI-supported research in doctoral projects, Konrad-Adenauer-Stiftung, Dortmund"
 
 * date: "4 June 2026"
-  title: "Presentation at the 7th Mobile Apps and Sensors in Surveys Workshop, Pompeu Fabra University"
+  headline: "Presentation at the 7th Mobile Apps and Sensors in Surveys Workshop, Pompeu Fabra University"
