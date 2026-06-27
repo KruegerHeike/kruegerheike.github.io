@@ -56,7 +56,7 @@ Conclusion – These findings suggest that close others are more consequential f
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/school20.png" class="research-thumb" alt="School-based adolescent friendship network">
+<img src="{{ site.url }}{{ site.baseurl }}/images/school.20.png" class="research-thumb" alt="School-based adolescent friendship network">
 <div class="research-body">
 <h4 class="research-title"><a href="https://doi.org/10.31234/osf.io/ndtrm_v1" target="_blank" rel="noopener noreferrer">Harmony on the Plate: Peer Networks and the Maintenance of Vegetarian Identity in Adolescence</a></h4>
 <p class="research-desc">Adolescence is a formative period for the development of dietary identities, yet little is known about how peer relationships shape vegetarianism during this life stage. Existing research on food-related peer influence has largely relied on cross-sectional or perceptual measures, limiting the ability to disentangle social influence from friendship selection processes. Drawing on theories of social influence and social selection, this study examines the co-evolution of friendship networks and vegetarian identity among adolescents.
