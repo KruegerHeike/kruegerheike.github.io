@@ -37,9 +37,9 @@ I am a quantitative social scientist working on social networks, social relation
   <h3>Professional Appointments</h3>
 
   <ul>
-    <li><strong>November 2022–present.</strong> Research Associate, Chair of Methods of Empirical Social Research, Institute of Sociology, RWTH Aachen University. Teaching and research in quantitative empirical social research, social network analysis with R, AI-supported research, and the PeerSmart project.</li>
+    <li><strong>November 2022–present.</strong> Research Associate, <a href="https://www.soziologie.rwth-aachen.de/cms/Soziologie/Die-Organisationseinheit/Lehr-und-Forschungseinheiten/Methoden/~ygfbw/Heike-Krueger" target="_blank" rel="noopener noreferrer">Chair of Methods of Empirical Social Research, Institute of Sociology, RWTH Aachen University</a>. Teaching and research in quantitative empirical social research, social network analysis with R, AI-supported research, and the PeerSmart project.</li>
 
-<li><strong>October 2018–March 2019 and April 2021–present.</strong> Research Associate, Chair of Sociology I, Department of Sociology and Social Psychology, University of Cologne. Teaching in sociology and quantitative data analysis with Stata and R.</li>
+<li><strong>October 2018–March 2019 and April 2021–present.</strong> Research Associate, <a href=https://dss.uni-koeln.de/de/team/dr-heike-krueger" target="_blank" rel="noopener noreferrer">Chair of Sociology I, Department of Sociology and Social Psychology, University of Cologne</a>. Teaching in sociology and quantitative data analysis with Stata and R.</li>
 
 <li><strong>April 2019–March 2021.</strong> Research Associate, Chair of Sociology I, University of Cologne. Project researcher in the <a href="https://socialbond-insights.eu/" target="_blank" rel="noopener noreferrer">SOCIALBOND project</a>, including school-based social network data collection, smartphone-based experience sampling, data cleaning, statistical analysis, and research reporting.</li>
 
