@@ -17,7 +17,7 @@ permalink: /about/
 <p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
 
 <p>
-I am a quantitative social scientist working on social networks, social relationships, mental health, and intensive longitudinal data. My research combines social network analysis, panel data methods, ecological momentary assessment, and digital behavioral data.
+Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysis, Intensive Longlitudinal Data, Ecological Momentary Assessment, Digital Behavioral Data
 </p>
 
 <div class="pi-links">
