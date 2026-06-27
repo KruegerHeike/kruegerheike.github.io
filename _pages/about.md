@@ -42,10 +42,6 @@ permalink: /about/
 
 <li><strong>April 2019–March 2021.</strong> Research Associate, Chair of Sociology I, University of Cologne. Project researcher in the <a href="https://socialbond-insights.eu/" target="_blank" rel="noopener noreferrer">SOCIALBOND project</a>, including school-based social network data collection, smartphone-based experience sampling, data cleaning, statistical analysis, and research reporting.</li>
 
-<li><strong>July 2014–September 2018.</strong> Student Research Assistant, Chair of Sociology I, University of Cologne.</li>
-
-<li><strong>2012–2016.</strong> Research internships at infas – Institute for Applied Social Sciences, the Max Planck Institute for the Study of Societies, and Produkt und Medienforschung Flügel.</li>
-
   </ul>
 </div>
 
