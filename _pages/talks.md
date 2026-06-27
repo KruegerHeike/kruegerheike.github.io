@@ -40,7 +40,9 @@ markers.addTo(map);
 
 map.fitBounds(markers.getBounds(), {
 padding: [40, 40]
-}); </script>
+}); 
+});                                   
+</script>
 
 <div class="section-card">
   <h3>Invited Talks</h3>
