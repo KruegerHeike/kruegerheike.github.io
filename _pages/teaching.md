@@ -8,7 +8,6 @@ permalink: /teaching/
 ## Teaching 
 
 <div class="section-card">
-
 <h3>External Courses and Method Schools</h3>
 
 <ul> 
@@ -21,14 +20,10 @@ permalink: /teaching/
   <li><strong>24–26 September 2025.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</li>
   
   <li><strong>30 September–2 October 2024.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</ul>
-
-</ul> 
-
+  </ul>
 </div>
 
-
 <div class="section-card">
-
 <h3>University Teaching</h3>
 
 <ul> 
@@ -69,7 +64,5 @@ permalink: /teaching/
   <li><strong>Summer term 2021.</strong> Social Networks and Health – Seminar. Bachelor's programme Social Sciences, University of Cologne.</li>
   
   <li><strong>Winter term 2018/19.</strong> Friends: Blessing or Curse? Network Research in Adolescence – Seminar. Bachelor's programme Social Sciences, University of Cologne.</li> 
-
-</ul>
-
+  </ul>
 </div>
