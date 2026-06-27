@@ -74,13 +74,13 @@ Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysi
   <h3>Professional Service and Committees</h3>
 
   <ul>
-    <li><strong>July 2025–present.</strong> Editorial Board Member, <em>European Journal of Mental Health</em>.</li>
+    <li><strong>July 2025–present.</strong> Editorial Board Member, <a href="https://ejmh.semmelweis.hu/index.php/ejmh/editorial-board" target="_blank" rel="noopener noreferrer">European Journal of Mental Health</a>.</li>
 
-<li><strong>November 2024–present.</strong> Board Member, Section Sociological Network Research, German Sociological Association (DGS).</li>
+<li><strong>November 2024–present.</strong> Board Member, <a href="https://sociohub-fid.de/s/soziologische-netzwerkforschung/custom_pages/view?id=26" target="_blank" rel="noopener noreferrer">Section Sociological Network Research</a>, German Sociological Association (DGS).</li>
 
-<li><strong>October 2024–present.</strong> Co-coordinator of the working group “Social Networks and Health”, German Society for Network Research (DGNet).</li>
+<li><strong>October 2024–present.</strong> Co-coordinator of the working group “<a href="https://www.netzwerkforschung.org/arbeitskreise" target="_blank" rel="noopener noreferrer">Social Networks and Health</a>”, German Society for Network Research (DGNet).</li>
 
-<li><strong>2025.</strong> Co-organizer of the 1st and 2nd DGNet Methods Schools.</li>
+<li><strong>2025.</strong> Co-organizer of the 1st and 2nd <a href="https://dgnet-methodenschule.de/" target="_blank" rel="noopener noreferrer">DGNet Methods Schools</a>.</li>
 
   </ul>
 </div>
@@ -118,7 +118,7 @@ Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysi
   <h3>Software and Tools</h3>
 
   <ul>
-    <li><strong>Statistical software:</strong> R, Stata, SPSS, Python.</li>
+    <li><strong>Statistical software:</strong> R, Stata.</li>
 
 <li><strong>Survey and web tools:</strong> LimeSurvey, Typo3.</li>
 
