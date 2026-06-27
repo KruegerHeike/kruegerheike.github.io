@@ -5,13 +5,6 @@ sitemap: false
 permalink: /
 ---
 
----
-
-title: "Home"
-layout: homelay
-sitemap: false
-permalink: /
-------------
 
 <h2 class="home-hero">{{ site.name }}</h2>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
