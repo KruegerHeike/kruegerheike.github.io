@@ -7,6 +7,31 @@ permalink: /research/
 
 ## Research
 
+<style>
+.research-grid {
+display: grid;
+grid-template-columns: repeat(2, minmax(0, 1fr));
+gap: 1.5rem;
+}
+
+@media (max-width: 800px) {
+.research-grid {
+grid-template-columns: 1fr;
+}
+}
+
+.research-title a {
+color: inherit;
+text-decoration: none;
+}
+
+.research-title a:hover {
+color: var(--accent-color);
+text-decoration: underline;
+}
+</style>
+
+
 <div class="research-grid">
 
 <div class="research-card">
