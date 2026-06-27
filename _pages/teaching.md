@@ -17,9 +17,9 @@ permalink: /teaching/
 
 <li><strong>7–8 October 2025.</strong> Quantitative Analysis of Longitudinal Network Data with RSiena. 1st DGNet Methods School 2025. Co-taught with Steffen Triebel, Aarhus University.</li>
 
-<li><strong></li>24–26 September 2025.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.
+<li><strong>24–26 September 2025.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.
 
-<li><strong></li>30 September–2 October 2024.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</ul>
+<li><strong>30 September–2 October 2024.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</ul>
 
 </div>
 
