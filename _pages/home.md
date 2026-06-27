@@ -45,6 +45,3 @@ My research contributes to health-oriented data science. I am particularly inter
 I teach quantitative methods, social network analysis, regression analysis, multilevel modelling, and courses on social support and health. My teaching emphasizes applied data analysis, transparent workflows, and the use of R and Stata for empirical social and health research.
 </p>
 
-<p>
-For more information, see my <a href="{{ site.url }}{{ site.baseurl }}/research">research profile</a>, <a href="{{ site.url }}{{ site.baseurl }}/publications">publications</a>, <a href="{{ site.url }}{{ site.baseurl }}/teaching">teaching activities</a>, and <a href="{{ site.url }}{{ site.baseurl }}/talks">talks</a>.
-</p>
