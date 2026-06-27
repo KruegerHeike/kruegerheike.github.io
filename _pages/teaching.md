@@ -15,7 +15,7 @@ permalink: /teaching/
   <li><strong>23 July 2026.</strong> Collecting Egocentric and Sociometric Network Data. 2nd DGNet Methods School 2026. Co-taught with Lydia Repke, GESIS – Leibniz Institute for the Social Sciences.</li>
   <li><strong>7–8 October 2025.</strong> Quantitative Analysis of Longitudinal Network Data with RSiena. 1st DGNet Methods School 2025. Co-taught with Steffen Triebel, Aarhus University.</li>
   <li><strong>24–26 September 2025.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</li>
-  <li><strong>30 September–2 October 2024.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</ul>
+  <li><strong>30 September–2 October 2024.</strong> Multilevel Analysis with Stata and R. GESIS Training, Cologne. Co-taught with Hermann Dülmer, University of Cologne.</li>
   </ul>
 </div>
 
