@@ -20,24 +20,30 @@ permalink: /research/
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Social media use and adolescent depressive symptoms: The moderating roles of gender and parental monitoring</h4>
+<p class="research-desc">Social media use has significantly reshaped adolescents’ social experiences, raising substantial concerns about its impact on mental health. This study examines the association between social media usage intensity and depressive symptoms among adolescents, emphasizing the moderating roles of parental monitoring and gender. Using logistic regression analysis of the 2023 US Youth Risk Behavior Survey (N = 10,334), results reveal that moderate and high social media use significantly increases depressive symptoms. Notably, higher parental monitoring mitigates these adverse effects. While females exhibit higher depressive symptoms overall, gender does not significantly moderate social media’s impact. This study highlights the importance of nuanced parental engagement and offers critical insights for policymakers and educators to foster healthier digital environments for adolescents.</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Household-income trajectories and mental health inequalities in Germany before, during, and after the COVID-19 pandemic: a quasi-experimental panel study</h4>
+<p class="research-desc">Background: The COVID-19 pandemic disrupted progress toward achieving the Sustainable Development Goals (SDGs), particularly SDG 10 (Reduced Inequalities) and SDG 3 (Good Health and Well-Being). In Germany, labor market volatility, compounded by record inflation, widened social inequalities and contributed to a gradient in mental health. This study examines the relationship between household income and mental health before, during, and after the pandemic in the German working population, addressing whether mental health burdens persisted post-pandemic.
+Methods: Using the German Socioeconomic Panel (v39.0), we applied a quasi-experimental design employing a ‘placebo control’ approach to obtain difference-in-difference (DiD) estimates. For this purpose, we created an ‘intervention’ sample consisting of respondents exposed to the COVID-19 pandemic (N = 8,340, 2018–2022) and a ‘placebo control’ sample, consisting of respondents not exposed to the COVID-19 pandemic (N = 11,869, 2014–2018), designed to mimic the intervention sample. Sequence analysis identified six typical household income trajectories (S1–S6): high, regular, fluctuating-I-II, low and unemployed. We used estimation methods to assess the mental health impacts of these trajectories during and post-pandemic, stratified by gender.
+Results: The results confirmed a strong social gradient in mental health tied to household income. For males, the COVID-19 pandemic caused a mental health decline of ~ ¼ standard deviation for trajectories reflecting regular (S2), fluctuating (S3), and low household income (S5) (e.g., S3-DiD = -2.043**), while those in high household income or unemployed trajectories were unaffected. Females experienced a more generalized mental health decline across all trajectories. Post-pandemic, mental health showed signs of recovery but did not fully return to pre-pandemic levels.
+Conclusions: These findings revealed that regular and fluctuating household income trajectories (S2–S5) are particularly vulnerable to mental health impacts during crises. Females are disproportionately affected, highlighting the need for targeted public health interventions. Strengthening institutional supports, such as childcare, and addressing gender disparities can help build resilience and advance progress toward the SDGs..</p>
 </div>
 </div>
 
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Everyday discrimination, co-ethnic social support and mood changes in young adult immigrants in Germany–Evidence from an ecological momentary assessment study</h4>
+<p class="research-desc">Objective: In the context of international migration flows, Germany is the second largest receiving country of migrants in the world. The aim of this study is to investigate the momentary mood effects of discrimination experiences for young adult immigrants and which social resources can buffer negative effects. A distinction is made between the importance of inter and intra-ethnic interaction partners in processing stressors.
+Method: Using an ecological momentary assessment design, first-generation migrants in Germany who had recently migrated from Poland, Turkey or Syria were interviewed three times a day over seven days in June 2021 (N individuals = 976; N observations = 11,470). The timing of the short surveys was chosen at random using a signal contingent sampling method. Participants reported their momentary mood and instances of discrimination, along with information on social support perception and interaction partners during the preceding hour in the context of their everyday lives. Hybrid mixed-effects regression models were estimated and the research questions were tested with three-way interactions.
+Results: The results indicate that perceived social support only moderately buffers the negative effect of everyday discrimination experiences on mood. A positive main effect on mood is observed for situational variations in perceived social support as well as for support from interaction partners.
+Conclusion: The findings illustrate that being embedded in supportive relationships is important in everyday life, regardless of the occurrence of stressors. Furthermore, the study suggests that the level of perceived support is more important for first-generation migrants than the ethnic origin of the support provider.</p>
 </div>
 </div>
 
