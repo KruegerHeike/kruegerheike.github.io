@@ -11,8 +11,11 @@ permalink: /talks/
   <h3>Invited Talks</h3>
 
   <ul>
-    <li><strong>Krüger, 11 July 2026.</strong> <em>Von der Idee zur Analyse: KI-gestützte Forschungsvorhaben in der Promotion.</em> Ethik und Künstliche Intelligenz in der Promotion – Ein Seminar für Promovierende der Konrad-Adenauer-Stiftung.</li>
-    <li><strong>Krüger, 5 May 2026.</strong> <em>Künstliche Intelligenz in der Forschung: Erfahrungen aus den Sozialwissenschaften und Perspektiven für die Versorgungsforschung.</em> Bonner Netzwerk für Versorgungsforschung.</li>
+    <li><strong>Krüger, 5 May 2026.</strong> <em>Künstliche Intelligenz in der Forschung: Erfahrungen aus den Sozialwissenschaften und Perspektiven für die Versorgungsforschung.</em> Bonner Netzwerk für Versorgungsforschung.</li> 
+    <li><strong>Krüger, 10 March 2026.</strong> <em>From stress to support: How mental health, mood, and biosignals shape social interaction networks over time.</em> Social Network Analysis in Scotland (SNAS) Seminar Series.</li> 
+    <li><strong>Krüger, 13 November 2025.</strong> <em>Potential of Social Network Analysis for Sociological Research.</em> PGR Session, Department of Sociology, Durham University.</li> 
+    <li><strong>Krüger, 13 November 2025.</strong> <em>From stress to support: How mental health, mood, and biosignals shape social interaction networks over time.</em> Department of Sociology, Durham University.</li> 
+    <li><strong>Krüger, 12 May 2025.</strong> <em>Adolescent Mental Health and Perceptual Accuracy in Social Support and Friendship Networks.</em> Research Seminar, Professur für Psychotherapie und Interventionspsychologie, University of Würzburg.</li>
   </ul>
 </div>
 
