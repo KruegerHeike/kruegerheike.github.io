@@ -14,15 +14,11 @@ permalink: /publications/
 
 <h3>Under Review and Submitted Manuscripts</h3>
 
-{% bibliography --query @unpublished[keywords ^= underreview] %}
-
-{% bibliography --query @unpublished[keywords ^= submitted] %}
+{% bibliography --query @unpublished[keywords ^= manuscript] %}
 
 <h3>Working Papers and Work in Progress</h3>
 
-{% bibliography --query @unpublished[keywords ^= workingpaper] %}
-
-{% bibliography --query @unpublished[keywords ^= workinprogress] %}
+{% bibliography --query @unpublished[keywords ^= prepublication] %}
 
 <h3>Refereed Journal Articles</h3>
 
