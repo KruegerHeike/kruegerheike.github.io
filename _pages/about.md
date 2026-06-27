@@ -31,8 +31,7 @@ I am a quantitative social scientist working on social networks, social relation
 </div>
 </div>
 
-  </div>
-</div>
+
 
 <div class="section-card">
   <h3>Professional Appointments</h3>
