@@ -90,7 +90,7 @@ Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysi
 
 <li><strong>October 2025-July 2026.</strong> Co-organizer of the 1st and 2nd <a href="https://dgnet-methodenschule.de/" target="_blank" rel="noopener noreferrer">DGNet Methods Schools</a>.</li>
 
-<li><strong>February 2027.</strong> Co-organizer of the conference "Social Networks and Health: Reciprocal Interdependencies"</a>.</li>
+<li><strong>February 2027.</strong> Co-organizer of the conference <em>Social Networks and Health: Reciprocal Interdependencies</em>.<br> <a href="{{ '/Call_Sektionstagung_2027_eng.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Call for Papers (PDF)</a></li>
 
   </ul>
 </div>
