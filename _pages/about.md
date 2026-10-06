@@ -80,7 +80,9 @@ Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysi
 
 <li><strong>October 2024–present.</strong> Co-coordinator of the working group “<a href="https://www.netzwerkforschung.org/arbeitskreise" target="_blank" rel="noopener noreferrer">Social Networks and Health</a>”, German Society for Network Research (DGNet).</li>
 
-<li><strong>2025.</strong> Co-organizer of the 1st and 2nd <a href="https://dgnet-methodenschule.de/" target="_blank" rel="noopener noreferrer">DGNet Methods Schools</a>.</li>
+<li><strong>October 2025-July 2026.</strong> Co-organizer of the 1st and 2nd <a href="https://dgnet-methodenschule.de/" target="_blank" rel="noopener noreferrer">DGNet Methods Schools</a>.</li>
+
+<li><strong>February 2027.</strong> Co-organizer of the conference "Social Networks and Health: Reciprocal Interdependencies"</a>.</li>
 
   </ul>
 </div>
