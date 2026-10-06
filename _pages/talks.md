@@ -48,6 +48,8 @@ padding: [40, 40]
   <h3>Invited Talks</h3>
 
   <ul>
+    <li><strong>Krüger, 17 November 2026.</strong> <em>Session contributor for "Social isolation, climate adaptation and nutrition".</em> 4th EUniWell Centre for Advanced Studies (CAS) Symposium, Semmelweis Univeristy Budapest. </li> 
+    <li><strong>Krüger, 02 November 2026.</strong> <em>Psychology Department Talk Series.</em> University of Limerick, Irland. </li> 
     <li><strong>Krüger, 12 July 2026.</strong> <em>From Idea to Analysis: AI-Supported Research Projects in Doctoral Studies.</em> Seminar for Doctoral Students of the Konrad Adenauer Foundation, University of Dortmund. </li> 
     <li><strong>Krüger, 5 May 2026.</strong> <em>Artificial Intelligence in Research: Lessons from the Social Sciences and Perspectives for Health Services Research.</em> Bonn Network for Health Services Research </li> 
     <li><strong>Krüger, 10 March 2026.</strong> <em>From stress to support: How mental health, mood, and biosignals shape social interaction networks over time.</em> Social Network Analysis in Scotland (SNAS) Seminar Series, Edinburgh, Scotland (digital talk).</li> 
