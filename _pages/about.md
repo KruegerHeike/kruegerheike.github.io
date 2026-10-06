@@ -74,7 +74,7 @@ Quantitative Data Analysis, Health Research, Sensor Data, Social Network Analysi
 <h3>Awards</h3>
 
 <ul>
-<li><strong>2026.</strong> Recipient of the inaugural <a href="LINK_ZUR_AWARD_ANKUENDIGUNG" target="_blank" rel="noopener noreferrer">Marie Jahoda Best Early Paper Award</a>, awarded by the Section Medical and Health Sociology of the German Sociological Association (DGS) at the DGS Congress in Mainz. The award recognized the article <a href="https://doi.org/10.1016/j.jmh.2024.100212" target="_blank" rel="noopener noreferrer"><em>Everyday discrimination, co-ethnic social support and mood changes in young adult immigrants in Germany: Evidence from an ecological momentary assessment study</em></a>, published in <em>Journal of Migration and Health</em>.</li>
+<li><strong>2026.</strong> Recipient of the inaugural <a href="https://de.linkedin.com/posts/dgs-medizin-und-gesundheitssoziologie_dgs2026-soziologie-gesundheitssoziologie-activity-7512580046448992256-RPjH" target="_blank" rel="noopener noreferrer">Marie Jahoda Best Early Paper Award</a>, awarded by the Section Medical and Health Sociology of the German Sociological Association (DGS) at the DGS Congress in Mainz. The award recognized the article <a href="https://doi.org/10.1016/j.jmh.2024.100212" target="_blank" rel="noopener noreferrer"><em>Everyday discrimination, co-ethnic social support and mood changes in young adult immigrants in Germany: Evidence from an ecological momentary assessment study</em></a>, published in <em>Journal of Migration and Health</em>.</li>
 </ul>
 </div>
 
