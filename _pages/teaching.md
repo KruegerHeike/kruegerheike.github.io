@@ -23,6 +23,8 @@ permalink: /teaching/
 <h3>University Teaching</h3>
 
 <ul> 
+  <li><strong>Winter term 2026/27.</strong> Applied Quantitative Social Research (Empirical Social Research) – Seminar. Master's programme Sociology, RWTH Aachen University.</li>
+  <li><strong>Winter term 2026/27.</strong> Regression Analysis in the Social Sciences – Exercise Class. Bachelor's programme Social Sciences, University of Cologne.</li>
   <li><strong>Summer term 2026.</strong> Social Support Exchange in Day-to-Day Life – Seminar. Master's programme Sociology: Social and Economic Psychology, University of Cologne.</li>
   <li><strong>Summer term 2026.</strong> Social Network Analysis – Seminar. Master's programme Sociology, RWTH Aachen University.</li>
   <li><strong>Winter term 2025/26.</strong> Applied Quantitative Social Research (Empirical Social Research) – Seminar. Master's programme Sociology, RWTH Aachen University.</li>
