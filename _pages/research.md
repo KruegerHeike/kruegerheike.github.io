@@ -68,7 +68,7 @@ These findings highlight that adolescent vegetarianism is socially embedded, but
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/socialmedia.png" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bmc.png" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
 <h4 class="research-title"><a href="https://doi.org/10.1186/s40359-026-05805-7" target="_blank" rel="noopener noreferrer">Mental health symptoms and everyday social interaction among university students: an exploratory intensive longitudinal study of relational events within bounded peer networks</a></h4>
 <p class="research-desc">Background
