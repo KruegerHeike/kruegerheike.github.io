@@ -70,6 +70,23 @@ These findings highlight that adolescent vegetarianism is socially embedded, but
 <div class="research-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/socialmedia.png" class="research-thumb" alt="Superfluid helium">
 <div class="research-body">
+<h4 class="research-title"><a href="https://doi.org/10.1186/s40359-026-05805-7" target="_blank" rel="noopener noreferrer">Mental health symptoms and everyday social interaction among university students: an exploratory intensive longitudinal study of relational events within bounded peer networks</a></h4>
+<p class="research-desc">Background
+Mental health symptoms are closely linked to social relationships, yet most research examines social connectedness through stable ties or retrospective reports. Less is known about how symptoms are associated with the unfolding micro-dynamics of everyday interaction. This exploratory study examined whether depressive symptoms, anxiety symptoms, and ADHD symptoms were differentially associated with face-to-face contact and received emotional support among university students.
+Methods
+Data came from the PeerSmart Network Study, an intensive longitudinal social network study combining smartphone-based ecological momentary assessment with roster-based sociometric measurement. Thirty-eight students from two bounded academic cohorts completed baseline mental health measures and participated in a seven-day assessment period with three prompts per day, contributing 657 short surveys. At each prompt, participants reported face-to-face contacts lasting at least five minutes and received emotional support since the previous survey. Given the intensive but small-scale design, the analyses were intended to model micro-level interaction processes within bounded peer contexts rather than to estimate population-level associations. Dynamic Network Actor Models were estimated separately for the bachelor and master cohorts. Received emotional support was modelled as a directed event process, whereas face-to-face contact was modelled as an undirected coordination process.
+Results
+Mental health symptom levels were more consistently associated with received emotional support than with general face-to-face contact. Anxiety symptoms showed a positive association with receiving emotional support in both cohorts. Depressive symptoms were negatively associated with receiving emotional support in the bachelor cohort, and ADHD symptoms were negatively associated with receiving support in both cohorts. In contrast, face-to-face contact showed little evidence of overall involvement differences by symptom level, suggesting that general social exposure was more strongly associated with prior interaction history and opportunity structures.
+Conclusions
+The findings provide preliminary evidence that mental health symptoms are not uniformly associated with everyday social interaction. Rather, symptom levels appeared to be most relevant for emotionally meaningful support exchanges. These findings highlight the importance of distinguishing general social contact from support-related interaction and suggest that student mental health interventions should attend not only to social connectedness, but also to the concrete contexts in which support is mobilized or missed.</p>
+</div>
+</div>
+
+
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/socialmedia.png" class="research-thumb" alt="Superfluid helium">
+<div class="research-body">
 <h4 class="research-title"><a href="https://doi.org/10.1007/s11469-025-01566-3" target="_blank" rel="noopener noreferrer">Social media use and adolescent depressive symptoms: The moderating roles of gender and parental monitoring</a></h4>
 <p class="research-desc">Social media use has significantly reshaped adolescents’ social experiences, raising substantial concerns about its impact on mental health. This study examines the association between social media usage intensity and depressive symptoms among adolescents, emphasizing the moderating roles of parental monitoring and gender. Using logistic regression analysis of the 2023 US Youth Risk Behavior Survey (N = 10,334), results reveal that moderate and high social media use significantly increases depressive symptoms. Notably, higher parental monitoring mitigates these adverse effects. While females exhibit higher depressive symptoms overall, gender does not significantly moderate social media’s impact. This study highlights the importance of nuanced parental engagement and offers critical insights for policymakers and educators to foster healthier digital environments for adolescents.</p>
 </div>
